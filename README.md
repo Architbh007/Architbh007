@@ -15,6 +15,6 @@ I’m a Software Engineering student at Deakin University with hands-on experien
 
 ## Connect With Me
 
-* Portfolio: architbhullar.com/
+* Portfolio: https://architbhullar.com/
 * LinkedIn: https://www.linkedin.com/in/archit-bhullar-b37681301/
 * Email: bhullararchit@gmail.com

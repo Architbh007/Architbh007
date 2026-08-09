@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Architbh007/Architbh007/main/banner.svg" width="100%" alt="Building Real-Time AI Agents" />
+<img src="https://cdn.jsdelivr.net/gh/Architbh007/Architbh007@main/banner.svg" width="100%" alt="Building Real-Time AI Agents" />
 
 ### Building at the intersection of Full Stack, AI, and Optimization
 

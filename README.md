@@ -18,13 +18,13 @@
 - Currently **Project Lead** for **AquaBlend**, leading four streams (MILP Optimisation, AI & Analysis, Data Science, App & Delivery)
 - Exploring **LLM internals, fine-tuning, and reasoning distillation** as a side technical deep-dive
 - Freelance UI/UX work, and actively looking for internship opportunities
-- Robotics background — trained an autonomous Duckiebot (`mybot002437`) for lane following and intersection handling
+- Robotics background - trained an autonomous Duckiebot (`mybot002437`) for lane following and intersection handling
 
 ---
 
 ### Tech Stack
 
-<table>
+<table border="0" cellspacing="0" cellpadding="12">
 <tr>
 <td valign="top">
 

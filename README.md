@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%" alt="Building Real-Time AI Agents" />
 
-### Building at the intersection of Full Stack, AI, and Optimization
+### Building at the intersection of Full Stack and applied AI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-architbhullar.com-1e3c72?style=for-the-badge&logo=googlechrome&logoColor=white)](https://architbhullar.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-bhullar-b37681301/)
